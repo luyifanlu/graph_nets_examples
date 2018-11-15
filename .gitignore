@@ -1,0 +1,12 @@
+.build
+.cache
+.ipynb_checkpoints
+
+.env
+
+foo
+foo.*
+bar
+bar.*
+baz
+baz.*
